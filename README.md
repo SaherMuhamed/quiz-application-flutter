@@ -25,7 +25,7 @@ A Flutter application that allows users to take a quiz by answering true or fals
 4. Receive immediate feedback on your answer with an icon (✔️ for correct, ❌ for incorrect).
 5. Repeat steps 2-4 until you have answered all the questions.
 6. When you complete the quiz, an alert will be displayed showing your final score.
-7. To restart the quiz, tap the "Restart" button on the alert dialog.
+7. To restart the quiz, tap the "cancel" button on the alert dialog.
 
 ## Code Structure
 The project structure is as follows:    
